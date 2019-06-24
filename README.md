@@ -19,3 +19,6 @@ R code: [[MD]](code/20190623_Abbas.csfit.md)
   
   
 ### Complete deconvolution from globas expression
+- deconf on Abbas dataset  
+![Fig. 3](figure/deconf-1.png)  
+R code: [[MD]](code/20190623_Abbas.deconf.md)  
